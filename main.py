@@ -84,7 +84,7 @@ abstract_prompt = PromptTemplate(
 
 # --- UI Setup ---
 st.title("YouSchool")
-st.header("Your Study Buddy 🤖")
+st.header("Your personal study buddy powered by LLMs🤖")
 
 # Tabs
 main_tabs = st.tabs(["Q&A", "Others"])
