@@ -36,8 +36,13 @@ Get structured answers including:
 
 ---
 
-## 🚀 How to Run
+## 📬 Contact
+- Made by Sunag M P
+- GitHub: @SunagMP
+  
+---
 
+## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
