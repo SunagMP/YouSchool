@@ -1,2 +1,2 @@
 # YouSchool
-The developed project helps to answer the question by using the context of the uploaded pdf and youtube url
+An LLM-powered academic assistant that provides contextual answers, notes, summaries, and quizzes from uploaded PDFs and YouTube links.
