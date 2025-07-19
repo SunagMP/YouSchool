@@ -27,13 +27,14 @@ Get structured answers including:
 
 ---
 
-
 ## 🤖 Built With
 - LangChain
 - Streamlit
 - Gemini
 - YouTubeTranscriptAPI
 - PyPDF
+
+---
 
 ## 🚀 How to Run
 
